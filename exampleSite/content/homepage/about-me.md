@@ -78,6 +78,7 @@ Research Focus:
 
 Reserach Focus:
 - Contrastive Learning
+- Data Augmentation
 - Medical Imaging Analysis with Deep Learning
 - Explainable AI
 
