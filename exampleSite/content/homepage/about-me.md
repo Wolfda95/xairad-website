@@ -48,7 +48,7 @@ President of the Southwest German Society for Nuclear Medicine and is the head o
 ## Medical Doctors
 ##### Dr. Wolfgang Thaiss, Senior Physician Nuclear Medicine & Diagn. & interv. Radiology, Scientific Director Core Facility PET/MR
 
-{{< imagewithtext img="/images/thaiss.jpg" link="ttps://www.uniklinik-ulm.de/nuklearmedizin/team.html" >}}
+{{< imagewithtext img="/images/w_thaiss.jpg" link="https://www.uniklinik-ulm.de/nuklearmedizin/team.html" >}}
 
 ---
 ##### Dr. Catharina Lisson, Head of Division Oncological Imaging / Thoracic Imaging
@@ -77,8 +77,8 @@ Research Focus:
 {{< imagewithtext img="/images/wolf.jpg" link="https://github.com/Wolfda95" >}}
 
 Reserach Focus:
+- Medical image analysis with Deep Learning
 - Contrastive Learning
 - Data Augmentation
-- Medical Imaging Analysis with Deep Learning
 - Explainable AI
 
