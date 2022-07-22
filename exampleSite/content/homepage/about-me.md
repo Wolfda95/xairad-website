@@ -1,10 +1,10 @@
 ---
 title: "Group Lead"
-weight: 3
+weight: 2
 header_menu: true
 ---
-<br/><br/><br/><br/><br/><br/><br/>
 
+&nbsp;
 
 #### Prof. Dr. med. Meinrad Beer
 ###### Director of the Clinic for Diagnostic & Interventional Radiology, Ulm University Hospital 
@@ -12,14 +12,14 @@ header_menu: true
 {{< imagewithtext img="/images/beer.jpg"  link="https://www.uniklinik-ulm.de/radiologie-diagnostische-und-interventionelle/team/prof-dr-m-beer.html">}}
 Prof. Dr. Meinrad Beer is the Medical Director of the Department of Diagnostic and Interventional Radiology at Ulm University. After his professorships in Clinical Radiology (University of Wuerzburg) and Pediatric Radiology (Medical University of Graz, Austria) he has been appointed chairman of the Radiology Department (Ulm University) in 2013.
 
-<br/><br/><br/><br/><br/><br/><br/>
+&nbsp;
 
 #### Prof. Dr. rer-nat. habil. Timo Ropinski
 ###### Head of the Visual Computing Research Group, Ulm University  
 
 {{< imagewithtext img="/images/ropinski.png" link="https://www.uni-ulm.de/in/mi/institut/mitarbeiter/timo-ropinski/">}}Prof. Ropinski is head of the Visual Computing Group at Ulm University. Before moving to Ulm, he was Professor in Interactive Visualization at Linköping University in Sweden where he was heading the Scientific Visualization Group. Prof. Ropinski has received his Ph.D. in computer science in 2004 from the University of Münster, where he has also completed his habilitation in 2009.
 
-<br/><br/>
+&nbsp;
 
 #### Jun.-Prof. Dr.-Ing. Michael Götz
 ###### Head of the Section Experimental Radiology, Ulm University Hospital 
@@ -29,39 +29,23 @@ Prof. Dr. Meinrad Beer is the Medical Director of the Department of Diagnostic a
 
 
 ---
-## Project Partners
 
-<br/><br/>
 
-#### Prof. Dr. med.  Ambros J. Beer
-###### Head of the Department of Nuclear Medicine, Ulm University Hospital 
+## Medical Researchers
 
-{{< imagewithtext img="/images/abeer.png" link="https://www.uniklinik-ulm.de/nuklearmedizin/team/prof-dr-a-beer.html">}}
-
-<br/><br/>
-
-#### Prof. Dr. Hans Kestler
-###### Head of the Department of Medical Systems Biology, Ulm University
-
-{{< imagewithtext img="/images/kestler.png" link="https://www.uni-ulm.de/en/einrichtungen/uzwr/informationen/personen-und-organisation/mitglieder/prof-dr-hans-kestler/">}}
-
----
-
-## Medical Doctors
-
-<br/><br/>
+&nbsp;
 
 #### Prof. Dr. med. Stefan Schmidt
 ###### Deputy Director of the Clinic for Diagnostic & Interventional Radiology, Ulm University Hospital
 {{< imagewithtext img="/images/schmidt.png" link="https://www.uniklinik-ulm.de/radiologie-diagnostische-und-interventionelle/team.html">}}
 
-<br/><br/>
+&nbsp;
 
 #### Dr. med. Catharina Lisson
 ###### Senior Physician Diagn. & interv. Radiology, Head of Division Oncological Imaging / Thoracic Imaging, Ulm University Hospital
 {{< imagewithtext img="/images/lisson.png" link="https://www.uniklinik-ulm.de/radiologie-diagnostische-und-interventionelle/forschung/ag-onkologie.html" >}}
 
-<br/><br/>
+&nbsp;
 
 
 #### Dr. med. Wolfgang Thaiss
@@ -69,7 +53,7 @@ Prof. Dr. Meinrad Beer is the Medical Director of the Department of Diagnostic a
 
 {{< imagewithtext img="/images/thaiss.png" link="https://www.uniklinik-ulm.de/nuklearmedizin/team.html" >}}
 
-<br/><br/>
+&nbsp;
 
 #### Dr. med. Daniel Vogele
 ###### Senior Physician Diagn. & interv. Radiology, Head of Division Musculoskeletal radiology, Ulm University Hospital
@@ -81,27 +65,73 @@ Prof. Dr. Meinrad Beer is the Medical Director of the Department of Diagnostic a
 
 
 
-## Research Associates Computer Science
+## Computer Science Researchers
 
-<br/><br/>
+&nbsp;
 
 #### Daniel Wolf
-###### M.Sc. Electrical engineering
+###### M.Sc. Electrical engineering, Research Associate / PhD Candidate, Ulm University
 {{< imagewithtext img="/images/wolf.png" link="https://github.com/Wolfda95">}}Reserach Focus:
 - Medical image analysis with Deep Learning
 - PreTraining with self-supervised learning (Contrastive Learning)
 - Data Augmentation
 - Explainable AI
 
-<br/>
+&nbsp;
 
 #### Luisa Galee
-###### M.Sc.
-{{< imagewithtext img="/images/" link="">}} Reserach Focus:
+###### M.Sc. Computational Science and Engineering, Research Associate / PhD Candidate, Ulm University   
 
-<br/><br/><br/><br/>
+{{< imagewithtext img="/images/" link="">}} 
+Reserach Focus:
+- Medical image analysis with Deep Learning
+- Explainable AI
+
+&nbsp;
 
 #### Heiko Hillenhagen
-###### M.Sc.
-{{< imagewithtext img="/images/" link="">}} Reserach Focus:
+###### M.Sc. Mechanical Engineering, Research Associate / PhD Candidate, Ulm University 
+
+{{< imagewithtext img="/images/" link="">}} 
+Reserach Focus:
+- Medical image analysis with Deep Learning
+- Segmentation
+
+---
+## Research assistants
+
+&nbsp;
+
+#### Gesa Mittmann
+###### Mastertheses Computer Science
+Focus: Deep Learning muscle segmentation for migraine patients
+
+&nbsp;
+
+#### Christoph Meyer
+###### Mastertheses Computer Science 
+Focus: Deep Learning on PET/CT and PET/MRI images
+
+&nbsp;
+
+#### Sabitha Manoj
+###### Research assistant
+Focus: Machine Learning with Radiomics 
+
+---
+## Project Partners
+
+&nbsp;
+
+#### Prof. Dr. med.  Ambros J. Beer
+###### Head of the Department of Nuclear Medicine, Ulm University Hospital 
+
+
+
+&nbsp;
+
+#### Prof. Dr. Hans Kestler
+###### Head of the Department of Medical Systems Biology, Ulm University
+
+
 
