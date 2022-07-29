@@ -3,19 +3,11 @@ title: "Contact"
 weight: 4
 header_menu: true
 ---
+{{<icon class="fa fa-envelope">}}&nbsp;[sekretariat.radiologie1@uniklinik-ulm.de](mailto:sekretariat.radiologie1@uniklinik-ulm.de)
 
-{{<icon class="fa fa-envelope">}}&nbsp;[daniel.wolf@uniklinik-ulm.de](mailto:daniel.wolf@uniklinik-ulm.de)
+{{<icon class="fa fa-envelope">}}&nbsp;[timo.ropinski@uni-ulm.de](mailto:timo.ropinski@uni-ulm.de)
 
-{{<icon class="fa fa-phone">}}&nbsp;[073150061146](073150061146)
-
-
-{{<icon class="fa fa-envelope">}}&nbsp;[luisa.galee@uni-ulm.de](mailto:luisa.galee@uni-ulm.de)
-
-{{<icon class="fa fa-phone">}}&nbsp;[073150061175](073150061175)
-
-{{<icon class="fa fa-envelope">}}&nbsp;[heiko.hillenhagen@uni-ulm.de](mailto:heiko.hillenhagen@uni-ulm.de)
-
-{{<icon class="fa fa-phone">}}&nbsp;[073150061146](073150061146)
+{{<icon class="fa fa-envelope">}}&nbsp;[michael.goetz@uni-ulm.de](mailto:michael.goetz@uni-ulm.de)
 
 Please feel free to contact us!
 
