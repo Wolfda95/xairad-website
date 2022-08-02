@@ -145,7 +145,7 @@ Reserach Focus:
 Reserach Focus:
 - Medical image analysis with Deep Learning
 - Segmentation of PET/MRI images 
-- Autlier/ nomaly detection
+- Outlier/ Anomaly detection
 
 {{<icon class="fa fa-envelope">}}&nbsp;[heiko.hillenhagen@uni-ulm.de](mailto:heiko.hillenhagen@uni-ulm.de)
 
