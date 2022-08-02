@@ -156,7 +156,7 @@ Reserach Focus:
 
 #### Gesa Mittmann
 ###### Masterthesis Computer Science
-Focus: Deep Learning muscle segmentation for migraine patients
+Focus: Deep Learning on MRI images 
 
 &nbsp;
 
