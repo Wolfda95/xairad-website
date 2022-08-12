@@ -25,6 +25,7 @@ Mantle cell lymphoma (MCL) is a rare lymphoid malignancy with a poor prognosis c
 
 ---
 
+
 #### Longitudinal CT Imaging to Explore the Predictive Power of 3D Radiomic Tumour Heterogeneity in Precise Imaging of Mantle Cell Lymphoma (MCL)
 
 ![Example image](/images/CathiPaper3.png)
