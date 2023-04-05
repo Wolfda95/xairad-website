@@ -10,8 +10,6 @@ header_menu: true
 ###### Director of the Clinic for Diagnostic & Interventional Radiology, Ulm University Hospital 
 
 {{< imagewithtext img="/images/beer-min.jpg"  link="https://www.uniklinik-ulm.de/radiologie-diagnostische-und-interventionelle/team/prof-dr-m-beer.html">}}
-Prof. Dr. Meinrad Beer is the Medical Director of the Department of Diagnostic and Interventional Radiology at Ulm University. After his professorships in Clinical Radiology (University of Wuerzburg) and Pediatric Radiology (Medical University of Graz, Austria) he has been appointed chairman of the Radiology Department (Ulm University) in 2013.
-
 {{<icon class="fa fa-envelope">}}&nbsp;[sekretariat.radiologie1@uniklinik-ulm.de](mailto:sekretariat.radiologie1@uniklinik-ulm.de)
 
 &nbsp;
@@ -19,8 +17,7 @@ Prof. Dr. Meinrad Beer is the Medical Director of the Department of Diagnostic a
 #### Prof. Dr. rer-nat. habil. Timo Ropinski
 ###### Head of the Visual Computing Research Group, Ulm University  
 
-{{< imagewithtext img="/images/ropinski-min.png" link="https://viscom.uni-ulm.de/members/timo-ropinski/">}}Prof. Ropinski is head of the Visual Computing Group at Ulm University. Before moving to Ulm, he was Professor in Interactive Visualization at Linköping University in Sweden where he was heading the Scientific Visualization Group. Prof. Ropinski has received his Ph.D. in computer science in 2004 from the University of Münster, where he has also completed his habilitation in 2009.
-
+{{< imagewithtext img="/images/ropinski-min.png" link="https://viscom.uni-ulm.de/members/timo-ropinski/">}}
 {{<icon class="fa fa-envelope">}}&nbsp;[timo.ropinski@uni-ulm.de](mailto:timo.ropinski@uni-ulm.de)
 
 &nbsp;
@@ -28,8 +25,7 @@ Prof. Dr. Meinrad Beer is the Medical Director of the Department of Diagnostic a
 #### Jun.-Prof. Dr.-Ing. Michael Götz
 ###### Head of the Section Experimental Radiology, Ulm University Hospital 
 
-{{< imagewithtext img="/images/goetz-min.png" link="https://www.uniklinik-ulm.de/radiologie-diagnostische-und-interventionelle/schwerpunkte-sektionen/sektion-experimentelle-radiologie.html">}}Professor Götz is head of the experimental radiology section at Ulm University Hospital. Before moving to Ulm he worked as Postdoctoral researcher at the German Cancer Research Center (DKFZ) were he also received his Ph.D. in 2017.
-
+{{< imagewithtext img="/images/goetz-min.png" link="https://www.uniklinik-ulm.de/radiologie-diagnostische-und-interventionelle/schwerpunkte-sektionen/sektion-experimentelle-radiologie.html">}}
 {{<icon class="fa fa-envelope">}}&nbsp;[michael.goetz@uni-ulm.de](mailto:michael.goetz@uni-ulm.de)
 
 
@@ -76,7 +72,6 @@ Prof. Dr. Meinrad Beer is the Medical Director of the Department of Diagnostic a
 #### Dr. rer. nat. Arthur Wunderlich 
 ###### Diplomphysiker
 {{< imagewithtext img="/images/Arthur-min.jpg" link="https://www.uniklinik-ulm.de/radiologie-diagnostische-und-interventionelle/team.html">}}
-
 {{<icon class="fa fa-envelope">}}&nbsp;[arthur.wunderlich@uniklinik-ulm.de](mailto:arthur.wunderlich@uniklinik-ulm.de)
 
 
@@ -90,9 +85,9 @@ Prof. Dr. Meinrad Beer is the Medical Director of the Department of Diagnostic a
 ###### M.Sc. Computer Science, Research Associate / PhD Candidate, Ulm University
 {{< imagewithtext img="/images/hannah-min.jpg" link="https://viscom.uni-ulm.de/members/hannah-kniesel/">}}
 Reserach Focus:
-- Deep Learning Techniques for Biomedical Image Processing
+- Deep Learning for Biomedical Image Processing
 - Explainable AI
-- Deep Learning Techniques for Computer Graphics
+- Deep Learning for Computer Graphics
 - Differentiable Rendering
 
 {{<icon class="fa fa-envelope">}}&nbsp;[hannah.kniesel@uni-ulm.de](mailto:hannah.kniesel@uni-ulm.de)
@@ -103,8 +98,8 @@ Reserach Focus:
 ###### M.Sc. Electrical Engineering, Research Associate / PhD Candidate, Ulm University
 {{< imagewithtext img="/images/wolf-min.png" link="https://viscom.uni-ulm.de/members/daniel-wolf/">}}
 Reserach Focus:
-- Medical image analysis with Deep Learning
-- PreTraining with self-supervised learning (Contrastive Learning)
+- Medical Image Analysis with Deep Learning
+- PreTraining with Self-Supervised learning (Contrastive Learning)
 - Data Augmentation
 
 {{<icon class="fa fa-envelope">}}&nbsp;[daniel.wolf@uniklinik-ulm.de](mailto:daniel.wolf@uniklinik-ulm.de)
@@ -117,24 +112,11 @@ Reserach Focus:
 
 {{< imagewithtext img="/images/tristan-min.jpg" link="https://viscom.uni-ulm.de/members/tristan-payer/">}} 
 Reserach Focus:
-- Medical image analysis with Deep Learning
+- Medical Image Analysis with Deep Learning
 - PreTraining with self-supervised learning (Contrastive Learning)
 - Image Segmentation
 
 {{<icon class="fa fa-envelope">}}&nbsp;[tristan.payer@uni-ulm.de](mailto:tristan.payer@uni-ulm.d)
-
-&nbsp;
-
-#### Faraz Nizamani
-###### M.Sc. Medical Systems Engineering, Research Associate / PhD Candidate, Ulm University   
-
-{{< imagewithtext img="/images/Faraz-min.jpg" link="https://viscom.uni-ulm.de/members/faraz-nizamani/">}} 
-Reserach Focus:
-- Medical image analysis with Deep Learning
-- Semisupervised learning
-
-{{<icon class="fa fa-envelope">}}&nbsp;[faraz.nizamani@uni-ulm.de](mailto:tristan.payer@uni-ulm.d)
-
 
 &nbsp;
 
@@ -143,7 +125,7 @@ Reserach Focus:
 
 {{< imagewithtext img="/images/Luisa-min.png" link="">}} 
 Reserach Focus:
-- Medical image analysis with Deep Learning
+- Medical Image Analysis with Deep Learning
 - Explainable AI
 
 {{<icon class="fa fa-envelope">}}&nbsp;[luisa.galee@uni-ulm.de](mailto:luisa.galee@uni-ulm.de)
@@ -156,47 +138,32 @@ Reserach Focus:
 
 {{< imagewithtext img="/images/Heiko-min.png" link="">}} 
 Reserach Focus:
-- Medical image analysis with Deep Learning
-- Segmentation of PET/MRI images 
-- Outlier/ Anomaly detection
+- Medical Image Analysis with Deep Learning
+- Segmentation of PET/CT and PET/MRI Images
 
 {{<icon class="fa fa-envelope">}}&nbsp;[heiko.hillenhagen@uni-ulm.de](mailto:heiko.hillenhagen@uni-ulm.de)
 
 ---
-## Students / Research Assistants
+## Research Assistants
 
 &nbsp;
 
-#### Gesa Mittmann
-###### Masterthesis Computer Science
-Focus: Deep Learning on MRI images 
+#### Konstantin Müller 
+###### Research assistant
+Focus: Machine Learning with Radiomics 
 
 &nbsp;
 
-#### Christoph Meyer
-###### Masterthesis Computer Science 
-Focus: Deep Learning on PET/CT and PET/MRI images
+#### Tim Bader
+###### Research assistant
+Focus: Deep Learning on Ultrasound Images
 
 &nbsp;
 
 #### Sabitha Manoj
 ###### Research assistant
-Focus: Machine Learning with Radiomics 
+Focus: Machine Learning with Radiomics and Deep Learning on CT Images
 
----
-## Project Partners
-
-&nbsp;
-
-#### Prof. Dr. med.  Ambros J. Beer
-###### Head of the Department of Nuclear Medicine, Ulm University Hospital 
-
-
-
-&nbsp;
-
-#### Prof. Dr. Hans Kestler
-###### Head of the Department of Medical Systems Biology, Ulm University
 
 
 
