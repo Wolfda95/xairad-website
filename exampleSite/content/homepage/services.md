@@ -19,7 +19,7 @@ Accurate retroperitoneal lymph node metastasis (LNM) prediction in early-stage t
 
 ##### Reference
 <cite id="Lisson">Lisson, C. S., Manoj, S., Wolf, D., Schrader, J., Schmidt, S. A., Beer, M., ... & Lisson, C. G.. CT Radiomics and Clinical Feature Model to Predict Lymph Node Metastases in Early-Stage Testicular Cancer. <em>Onco</em>. 2023.</cite>
-[Link](https://www.mdpi.com/)
+[Link](https://www.mdpi.com/2673-7523/3/2/6)
 
 ---
 &nbsp;
