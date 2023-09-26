@@ -5,6 +5,83 @@ header_menu: true
 ---
 &nbsp;
 
+#### Dealing with Small Datasets for Deep Learning in Medical Imaging: An Evaluation of Self-Supervised Pre-Training on CT Scans Comparing Contrastive and Masked Autoencoder Methods for Convolutional Models
+
+![Example image](/images/Wolf_SparK_PreTrain.png)
+
+
+&nbsp;
+
+##### Abstract
+Deep learning in medical imaging has the potential to minimize the risk of diagnostic errors, reduce radiologist workload, and accelerate diagnosis. Training such deep learning models requires large and accurate datasets, with annotations for all training samples. However, in the medical imaging domain, annotated datasets for specific tasks are often small due to the high complexity of annotations, limited access, or the rarity of diseases. To address this challenge, deep learning models can be pre-trained on large image datasets without annotations using methods from the field of self-supervised learning. After pre-training, small annotated datasets are sufficient to fine-tune the models for a specific task. The most popular self-supervised pre-training approaches in medical imaging are based on contrastive learning. However, recent studies in natural image processing indicate a strong potential for masked autoencoder approaches. Our work compares state-of-the-art contrastive learning methods with the recently introduced masked autoencoder approach "SparK" for convolutional neural networks (CNNs) on medical images. Therefore we pre-train on a large unannotated CT image dataset and fine-tune on several CT classification tasks. Due to the challenge of obtaining sufficient annotated training data in medical imaging, it is of particular interest to evaluate how the self-supervised pre-training methods perform when fine-tuning on small datasets. By experimenting with gradually reducing the training dataset size for fine-tuning, we find that the reduction has different effects depending on the type of pre-training chosen. The SparK pre-training method is more robust to the training dataset size than the contrastive methods. Based on our results, we propose the SparK pre-training for medical imaging tasks with only small annotated datasets.
+
+&nbsp;
+
+##### Reference
+<cite id="Wolf_PreTrain">Wolf, D., Payer, T., Lisson, C. S., Lisson, C. G., Beer, M., Ropinski, T., & Götz, M.. Dealing with Small Annotated Datasets for Deep Learning in Medical Imaging: An Evaluation of Self-Supervised Pre-Training on CT Scans Comparing Contrastive and Masked Autoencoder Methods for Convolutional Models.. <em>arXiv preprint</em>. 2023.</cite>
+[Link](https://arxiv.org/abs/2308.06534)
+
+---
+
+#### Medical volume segmentation by overfitting sparsely annotated data
+
+![Example image](/images/Tristan_2023_Seg.png)
+
+
+&nbsp;
+
+##### Abstract
+Purpose:
+Semantic segmentation is one of the most significant tasks in medical image computing, whereby deep neural networks have shown great success. Unfortunately, supervised approaches are very data-intensive, and obtaining reliable annotations is time-consuming and expensive. Sparsely labeled approaches, such as bounding boxes, have shown some success in reducing the annotation time. However, in 3D volume data, each slice must still be manually labeled.
+
+Approach:
+We evaluate approaches that reduce the annotation effort by reducing the number of slices that need to be labeled in a 3D volume. In a two-step process, a similarity metric is used to select slices that should be annotated by a trained radiologist. In the second step, a predictor is used to predict the segmentation mask for the rest of the slices. We evaluate different combinations of selectors and predictors on medical CT and MRI volumes. Thus we can determine that combination works best, and how far slice annotations can be reduced.
+
+Results:
+Our results show that for instance for the Medical Segmentation Decathlon—heart dataset, some selector, and predictor combinations allow for a Dice score 0.969 when only annotating 20% of slices per volume. Experiments on other datasets show a similarly positive trend.
+
+Conclusions:
+We evaluate a method that supports experts during the labeling of 3D medical volumes. Our approach makes it possible to drastically reduce the number of slices that need to be manually labeled. We present a recommendation in which selector predictor combination to use for different tasks and goals.
+&nbsp;
+
+##### Reference
+<cite id="Payer_2023">Payer, T., Nizamani, F., Beer, M., Götz, M., & Ropinski, T.. Medical volume segmentation by overfitting sparsely annotated data. <em>SPEE Journal of Medical Imaging</em>. 2023.</cite>
+[Link](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-10/issue-4/044007/Medical-volume-segmentation-by-overfitting-sparsely-annotated-data/10.1117/1.JMI.10.4.044007.short)
+
+
+---
+
+#### Artificial intelligence in radiology – beyond the black box
+
+![Example image](/images/Gallee_RöFo_2023.png)
+
+
+&nbsp;
+
+##### Abstract
+Background:Artificial intelligence is playing an increasingly important role in radiology. However, more and more often it is no longer possible to reconstruct decisions, especially in the case of new and powerful methods from the field of deep learning. The resulting models fulfill their function without the users being able to understand the internal processes and are used as so-called black boxes. Especially in sensitive areas such as medicine, the explainability of decisions is of paramount importance in order to verify their correctness and to be able to evaluate alternatives. For this reason, there is active research going on to elucidate these black boxes.
+
+Method: This review paper presents different approaches for explainable artificial intelligence with their advantages and disadvantages. Examples are used to illustrate the introduced methods. This study is intended to enable the reader to better assess the limitations of the corresponding explanations when meeting them in practice and strengthen the integration of such solutions in new research projects.
+
+Results and Conclusion: Besides methods to analyze black-box models for explainability, interpretable models offer an interesting alternative. Here, explainability is part of the process and the learned model knowledge can be verified with expert knowledge.
+
+Key Points:
+
+- The use of artificial intelligence in radiology offers many possibilities to provide safer and more efficient medical care. This includes, but is not limited to support during image acquisition and processing or for diagnosis.
+
+- Complex models can achieve high accuracy, but make it difficult to understand data processing.
+
+- If the explainability is already taken into account during the planning of the model, methods can be developed that are powerful and interpretable at the same time.
+
+&nbsp;
+
+##### Reference
+<cite id="Gallee">Gallée L., Kniesel H., Ropinski T., Götz M.. Artificial intelligence in radiology – beyond the black box. <em>RöFo</em>. 2023.</cite>
+[Link](https://www.thieme-connect.com/products/ejournals/html/10.1055/a-2076-6736)
+
+---
+&nbsp;
+
 #### CT Radiomics and Clinical Feature Model to Predict Lymph Node Metastases in Early-Stage Testicular Cancer
 
 ![Example image](/images/CathiTirdPaper.png)

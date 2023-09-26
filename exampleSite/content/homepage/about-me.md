@@ -63,20 +63,6 @@ header_menu: true
 
 ---
 
-
-
-## Physics Researchers
-
-&nbsp;
-
-#### Dr. rer. nat. Arthur Wunderlich 
-###### Diplomphysiker
-{{< imagewithtext img="/images/Arthur-min.jpg" link="https://www.uniklinik-ulm.de/radiologie-diagnostische-und-interventionelle/team.html">}}
-{{<icon class="fa fa-envelope">}}&nbsp;[arthur.wunderlich@uniklinik-ulm.de](mailto:arthur.wunderlich@uniklinik-ulm.de)
-
-
----
-
 ## Computer Science Researchers
 
 &nbsp;
@@ -99,10 +85,10 @@ Reserach Focus:
 {{< imagewithtext img="/images/wolf-min.png" link="https://viscom.uni-ulm.de/members/daniel-wolf/">}}
 Reserach Focus:
 - Medical Image Analysis with Deep Learning
-- PreTraining with Self-Supervised learning (Contrastive Learning)
+- PreTraining with Self-Supervised learning (Contrastive Learning and Masked Autoencoder)
 - Data Augmentation
 
-{{<icon class="fa fa-envelope">}}&nbsp;[daniel.wolf@uniklinik-ulm.de](mailto:daniel.wolf@uniklinik-ulm.de)
+{{<icon class="fa fa-envelope">}}&nbsp;[daniel.wolf@uni-ulm.de](mailto:daniel.wolf@uni-ulm.de)
 
 &nbsp;
 
@@ -120,15 +106,15 @@ Reserach Focus:
 
 &nbsp;
 
-#### Luisa Gallee
+#### Luisa Gallée
 ###### M.Sc. Computational Science and Engineering, Research Associate / PhD Candidate, Ulm University   
 
 {{< imagewithtext img="/images/Luisa-min.png" link="">}} 
 Reserach Focus:
 - Medical Image Analysis with Deep Learning
-- Explainable AI
+- Explainable AI (Capsule Neural Network)
 
-{{<icon class="fa fa-envelope">}}&nbsp;[luisa.galee@uni-ulm.de](mailto:luisa.galee@uni-ulm.de)
+{{<icon class="fa fa-envelope">}}&nbsp;[luisa.gallee@uni-ulm.de](mailto:luisa.galee@uni-ulm.de)
 
 
 &nbsp;
@@ -136,12 +122,23 @@ Reserach Focus:
 #### Heiko Hillenhagen
 ###### M.Sc. Mechanical Engineering, Research Associate / PhD Candidate, Ulm University 
 
-{{< imagewithtext img="/images/Heiko-min.png" link="">}} 
+{{< imagewithtext img="/images/Heiko.jpg" link="">}} 
 Reserach Focus:
 - Medical Image Analysis with Deep Learning
 - Segmentation of PET/CT and PET/MRI Images
 
 {{<icon class="fa fa-envelope">}}&nbsp;[heiko.hillenhagen@uni-ulm.de](mailto:heiko.hillenhagen@uni-ulm.de)
+
+
+---
+
+
+## Physics Researchers
+
+&nbsp;
+
+#### Dr. rer. nat. Arthur Wunderlich 
+###### Diplomphysiker
 
 ---
 ## Research Assistants
@@ -150,7 +147,7 @@ Reserach Focus:
 
 #### Konstantin Müller 
 ###### Research assistant
-Focus: Machine Learning with Radiomics 
+Focus: Machine Learning with Radiomics and Deep Learning on MRI Images
 
 &nbsp;
 
@@ -164,6 +161,11 @@ Focus: Deep Learning on Ultrasound Images
 ###### Research assistant
 Focus: Machine Learning with Radiomics and Deep Learning on CT Images
 
+&nbsp;
+
+#### Mohamed Amine Guedria 
+###### Research assistant
+Focus: Deep Learning on PET/CT images
 
 
 
