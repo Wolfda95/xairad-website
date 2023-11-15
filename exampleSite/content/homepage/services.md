@@ -5,7 +5,7 @@ header_menu: true
 ---
 &nbsp;
 
-#### Dealing with Small Datasets for Deep Learning in Medical Imaging: An Evaluation of Self-Supervised Pre-Training on CT Scans Comparing Contrastive and Masked Autoencoder Methods for Convolutional Models
+#### Self-Supervised Pre-Training with Contrastive and Masked Autoencoder Methods for Dealing with Small Datasets in Deep Learning for Medical Imaging
 
 ![Example image](/images/Wolf_SparK_PreTrain.png)
 
@@ -18,8 +18,26 @@ Deep learning in medical imaging has the potential to minimize the risk of diagn
 &nbsp;
 
 ##### Reference
-<cite id="Wolf_PreTrain">Wolf, D., Payer, T., Lisson, C. S., Lisson, C. G., Beer, M., Ropinski, T., & Götz, M.. Dealing with Small Annotated Datasets for Deep Learning in Medical Imaging: An Evaluation of Self-Supervised Pre-Training on CT Scans Comparing Contrastive and Masked Autoencoder Methods for Convolutional Models.. <em>arXiv preprint</em>. 2023.</cite>
+<cite id="Wolf_PreTrain">Wolf, D., Payer, T., Lisson, C. S., Lisson, C. G., Beer, M., Ropinski, T., & Götz, M.. Self-Supervised Pre-Training with Contrastive and Masked Autoencoder Methods for Dealing with Small Datasets in Deep Learning for Medical Imaging.. <em>Nature Scientific Reports</em>. 2023.</cite>
 [Link](https://arxiv.org/abs/2308.06534)
+
+---
+
+#### Interpretable Medical Image Classification Using Prototype Learning and Privileged Information
+
+![Example image](/images/luisa_xai_2.png)
+
+
+&nbsp;
+
+##### Abstract
+Deep learning in medical imaging has the potential to minimize the risk of diagnostic errors, reduce radiologist workload, and accelerate diagnosis. Training such deep learning models requires large and accurate datasets, with annotations for all training samples. However, in the medical imaging domain, annotated datasets for specific tasks are often small due to the high complexity of annotations, limited access, or the rarity of diseases. To address this challenge, deep learning models can be pre-trained on large image datasets without annotations using methods from the field of self-supervised learning. After pre-training, small annotated datasets are sufficient to fine-tune the models for a specific task. The most popular self-supervised pre-training approaches in medical imaging are based on contrastive learning. However, recent studies in natural image processing indicate a strong potential for masked autoencoder approaches. Our work compares state-of-the-art contrastive learning methods with the recently introduced masked autoencoder approach "SparK" for convolutional neural networks (CNNs) on medical images. Therefore we pre-train on a large unannotated CT image dataset and fine-tune on several CT classification tasks. Due to the challenge of obtaining sufficient annotated training data in medical imaging, it is of particular interest to evaluate how the self-supervised pre-training methods perform when fine-tuning on small datasets. By experimenting with gradually reducing the training dataset size for fine-tuning, we find that the reduction has different effects depending on the type of pre-training chosen. The SparK pre-training method is more robust to the training dataset size than the contrastive methods. Based on our results, we propose the SparK pre-training for medical imaging tasks with only small annotated datasets.
+
+&nbsp;
+
+##### Reference
+<cite id="Luisa_XAI_2">Gallée, L.., Berr, M., Götz, M.. Interpretable Medical Image Classification Using Prototype Learning and Privileged Information.. <em>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</em>. 2023.</cite>
+[Link](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_41)
 
 ---
 
@@ -95,7 +113,7 @@ Accurate retroperitoneal lymph node metastasis (LNM) prediction in early-stage t
 &nbsp;
 
 ##### Reference
-<cite id="Lisson">Lisson, C. S., Manoj, S., Wolf, D., Schrader, J., Schmidt, S. A., Beer, M., ... & Lisson, C. G.. CT Radiomics and Clinical Feature Model to Predict Lymph Node Metastases in Early-Stage Testicular Cancer. <em>Onco</em>. 2023.</cite>
+<cite id="Lisson">Lisson, C. S., Manoj, S., Wolf, D., Schrader, J., Schmidt, S. A., Beer, M., ... & Lisson, C. G.. CT Radiomics and Clinical Feature Model to Predict Lymph Node Metastases in Early-Stage Testicular Cancer. <em>MDPI Onco</em>. 2023.</cite>
 [Link](https://www.mdpi.com/2673-7523/3/2/6)
 
 ---
@@ -114,7 +132,7 @@ A major obstacle to the learning-based segmentation of healthy and tumorous brai
 &nbsp;
 
 ##### Reference
-<cite id="Wolf">Wolf, D., Regnery, S., Tarnawski, R., Bobek-Billewicz, B., Polańska, J., & Götz, M.. Weakly Supervised Learning with Positive and Unlabeled Data for Automatic Brain Tumor Segmentation. <em>Applied Sciences</em>. 2022.</cite>
+<cite id="Wolf">Wolf, D., Regnery, S., Tarnawski, R., Bobek-Billewicz, B., Polańska, J., & Götz, M.. Weakly Supervised Learning with Positive and Unlabeled Data for Automatic Brain Tumor Segmentation. <em>MDPI Applied Sciences</em>. 2022.</cite>
 [Link](https://www.mdpi.com/2076-3417/12/21/10763)
 
 ---
@@ -135,7 +153,7 @@ Mantle cell lymphoma (MCL) is a rare lymphoid malignancy with a poor prognosis c
 &nbsp;
 
 ##### Reference
-<cite id="Lisson">Lisson, C. S., Lisson, C. G., Mezger, M. F., Wolf, D., Schmidt, S. A., Thaiss, W., Tausch, E., Beer A. J., Stilgenbauer, S., Beer, M., Goetz, M.. Deep Neural Networks and Machine Learning Radiomics Modelling for Prediction of Relapse in Mantle Cell Lymphoma. <em>Cancers</em>. 2022.</cite>
+<cite id="Lisson">Lisson, C. S., Lisson, C. G., Mezger, M. F., Wolf, D., Schmidt, S. A., Thaiss, W., Tausch, E., Beer A. J., Stilgenbauer, S., Beer, M., Goetz, M.. Deep Neural Networks and Machine Learning Radiomics Modelling for Prediction of Relapse in Mantle Cell Lymphoma. <em>MDPI Cancers</em>. 2022.</cite>
 [Link](https://www.mdpi.com/2072-6694/14/8/2008)
 
 ---
@@ -153,7 +171,7 @@ The study’s primary aim is to evaluate the predictive performance of CT-derive
 &nbsp;
 
 ##### Reference
-<cite id="Lisson2">Lisson, C. S., Lisson, C. G., Achilles, S., Mezger, M. F., Wolf, D., Schmidt, S. A, Thaiss, W., Johannes, B., Beer A. J., Stilgenbauer, S., Beer, M., Goetz, M.. Longitudinal CT Imaging to Explore the Predictive Power of 3D Radiomic Tumour Heterogeneity in Precise Imaging of Mantle Cell Lymphoma (MCL). <em>Cancers</em>. 2022.</cite>
+<cite id="Lisson2">Lisson, C. S., Lisson, C. G., Achilles, S., Mezger, M. F., Wolf, D., Schmidt, S. A, Thaiss, W., Johannes, B., Beer A. J., Stilgenbauer, S., Beer, M., Goetz, M.. Longitudinal CT Imaging to Explore the Predictive Power of 3D Radiomic Tumour Heterogeneity in Precise Imaging of Mantle Cell Lymphoma (MCL). <em>MDPI Cancers</em>. 2022.</cite>
 [Link](https://www.mdpi.com/2072-6694/14/2/393)
 
 
