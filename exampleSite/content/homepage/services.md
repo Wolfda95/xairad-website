@@ -36,7 +36,7 @@ Deep learning in medical imaging has the potential to minimize the risk of diagn
 &nbsp;
 
 ##### Reference
-<cite id="Luisa_XAI_2">Gallée, L.., Berr, M., Götz, M.. Interpretable Medical Image Classification Using Prototype Learning and Privileged Information.. <em>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</em>. 2023.</cite>
+<cite id="Luisa_XAI_2">Gallée, L., Berr, M., Götz, M.. Interpretable Medical Image Classification Using Prototype Learning and Privileged Information.. <em>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</em>. 2023.</cite>
 [Link](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_41)
 
 ---
