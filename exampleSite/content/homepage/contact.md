@@ -21,6 +21,12 @@ Jun.-Prof. Dr.-Ing. Michael Götz
 
 &nbsp;
 
+Dr. med. Catharina Lisson
+
+{{<icon class="fa fa-envelope">}}&nbsp;[catharina.lisson@uniklinik-ulm.de](mailto:michael.goetz@uni-ulm.de)
+
+&nbsp;
+
 Please feel free to contact us!
 
 [Impressum](https://www.uni-ulm.de/rechtliche-hinweise/impressum/)
