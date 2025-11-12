@@ -33,7 +33,7 @@ header_menu: true
 #### Dr. med. Catharina Lisson
 ###### Senior Physician, Clinic for Diagnostic & Interventional Radiology, Ulm University Medical Center
 
-{{< imagewithtext img="/images/lisson-min.png" link="https://www.uniklinik-ulm.de/radiologie-diagnostische-und-interventionelle/schwerpunkte-sektionen/sektion-experimentelle-radiologie.html" >}}
+{{< imagewithtext img="/images/Lisson_Catharina_03.png" link="https://www.uniklinik-ulm.de/radiologie-diagnostische-und-interventionelle/schwerpunkte-sektionen/sektion-experimentelle-radiologie.html" >}}
 {{<icon class="fa fa-envelope">}}&nbsp;[catharina.lisson@uniklinik-ulm.de](mailto:michael.goetz@uni-ulm.de)
 
 ---
@@ -94,7 +94,7 @@ Focus: Unsupervised Domain Adaptation for Medical Imaging
 
 #### Michael Glöckler
 ###### PhD Candidate, Visual Computing Research Group, Ulm University
-Focus: Unsupervised Domain Adaptation for Medical Imaging
+Focus: Vision-Language Models and Multimodal Large Language Models for Medical Imaging
 
 &nbsp;
 
