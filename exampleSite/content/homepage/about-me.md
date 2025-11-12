@@ -100,7 +100,7 @@ Focus: Vision-Language Models and Multimodal Large Language Models for Medical I
 
 #### Sabitha Manoj
 ###### Research assistant, Experimental Radiology, Ulm University Medical Center
-Focus: Machine Learning Radiomics and Deep Learning for Medical Imaging
+Focus: Machine Learning Radiomics and Deep Learning for Medical Imaging 
 
 
 
